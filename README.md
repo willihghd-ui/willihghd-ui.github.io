@@ -1,6 +1,3 @@
-# willihghd-ui.github.io
-LEGO VLL for MicroScout, designed for mobile devices
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
